@@ -1,0 +1,75 @@
+
+/* Отдалённое подключение шрифта */
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap&subset=cyrillic-ext');
+@import url('https://fonts.googleapis.com/css?family=Cabin:regular&display=swap&subset=cyrillic-ext');
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue:regular&display=swap&subset=cyrillic-ext');
+@import url('https://fonts.googleapis.com/css?family=Cinzel:regular&display=swap&subset=cyrillic-ext');
+
+
+/* ----------------------------------------------------------------------- */
+/* ----------------------------------------------------------------------- */
+
+
+/* Локальное подклбчение шрифтов */
+@font-face {
+    font-family: 'Droid Serif-italic';
+    src: url('../fonts/DroidSerif-Italic.woff2') format('woff2'),
+         url('../fonts/DroidSerif-Italic.woff') format('woff');
+    font-weight: normal; 
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Droid Serif';
+    src: url('../fonts/DroidSerif.woff2') format('woff2'),
+         url('../fonts/DroidSerif.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----------------------------------------------------------------------- */
+/* ----------------------------------------------------------------------- */
+
+@font-face {
+    font-family: 'Carnivale';
+    src: url('../fonts/Carnivale.woff2') format('woff2'),
+         url('../fonts/Carnivale.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/*-----------------------------------------------------------------------------*/
+/* ----------------------------------------------------------------------- */
+
+@font-face {
+    font-family: 'Good Vibes Pro';
+    src: url('../fonts/GoodVibesPro.woff2') format('woff2'),
+         url('../fonts/GoodVibesPro.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/*-----------------------------------------------------------------------------*/
+/* ----------------------------------------------------------------------- */
+
+@font-face {
+	font-family: 'Gilroy';
+	src: url('../fonts/Gilroy-Regular.woff2') format('woff2'),
+		 url('../fonts/Gilroy-Regular.woff') format('foff');
+	font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+
+
+
+
+
